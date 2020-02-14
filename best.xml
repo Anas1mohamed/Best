@@ -6,8 +6,7 @@
         <fileName>MtkPro.exe</fileName> 
         <md5>5E7C72229D7F2C2CBC0813CD9383E1BF</md5>
 <description>Best Mtk Pro V 1.8 Released
-
-RELEASED:
+<string name="RELEASED:"><font fgcolor='#FFFF3B30'>Error</font></string
 
 - [MTK] Added support to reset FRP for more than 2000 supported model
 
