@@ -1,12 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="TestApp"> 
+    <update appID="best"> 
         <version>4.0.0.0</version> 
-        <url>ftp://portal2.rdpawnshop.com/MIS/Example/SharpUpdate-master/TestApp/bin/Debug/TestApp.exe</url> 
+        <url>https://raw.githubusercontent.com/Anas1mohamed/Best/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
-        <description>
-        1. Added notification message when the current version is already the latest.</description> 
+        <md5>D4FF2D66836DAB64838EF50B0D481B55</md5>
+        <description>1. Added notification message when the current version is already the latest.
+       bbbb 2ttttttttttttttt
+            3ttttttttttttt
+            4tttttttttttttttttt
+        </description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
