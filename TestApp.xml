@@ -5,8 +5,7 @@
         <url>https://raw.githubusercontent.com/Anas1mohamed/Best/master/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>D4FF2D66836DAB64838EF50B0D481B55</md5>
-        <description>
-        1. Added notification message when the current version is already the latest.</description> 
+        <description>1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
