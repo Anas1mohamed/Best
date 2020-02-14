@@ -29,7 +29,7 @@
     </add>
     <remove>
         <filePath>./test_remove/SharpUpdate - Copy.dll</filePath>
-        <description>Remove: 10/06/2018:
+        <description>Remove: 14/02/2020:
         1. Test remove.</description> 
         <launchArgs></launchArgs> 
     </remove>
