@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="best"> 
-        <version>1.8</version> 
+        <version>1.4</version> 
         <url>https://raw.githubusercontent.com/Anas1mohamed/Best/master/MtkPro.exe</url> 
         <fileName>MtkPro.exe</fileName> 
         <md5>5E7C72229D7F2C2CBC0813CD9383E1BF</md5>
-<description>Best Mtk Pro V 1.8 Released
+<description>Best Mtk Pro V 1.4 Released
 <string name="Released"><font fgcolor='#FFFF3B30'>Released</font></string> <!--red-->
 
 - [MTK] Added support to reset FRP for more than 2000 supported model
