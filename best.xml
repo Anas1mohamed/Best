@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="best"> 
-        <version>1.4</version> 
-        <url>http://www.gulfup.online:182/d/oudo3vgkmbt6ewlzfjjhat67clvhvbhr3alh4zsy7hauwm25pnzapv6o7acsldnpwodhdeuc/BestMtkPro.exe</url> 
+        <version>1.3.1.1</version> 
+        <url>http://download853.mediafire.com/883txbb6ncyg/fh7n4omct30zgcq/BestMtkPro.exe</url> 
         <fileName>BestMtkPro.exe</fileName> 
-        <md5>90BD19FE3203604F224A769352B1903C</md5>
-<description>Best Mtk Pro V 1.4 Released
+        <md5>89D14AEFE4F614465282315F0E1819BE</md5>
+<description>Best Mtk Pro V 1.3.1.1 Released
 <string name="Released"><font fgcolor='#FFFF3B30'>Released</font></string> <!--red-->
 
 - [MTK] Added support to reset FRP for more than 2000 supported model
