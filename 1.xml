@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="best"> 
+    <update appID="IQFirmwarePro"> 
         <version>2.0.0</version> 
         <url>https://github.com/Anas1mohamed/Best/raw/master/IQ-FirmwarePro.exe</url> 
         <fileName>IQ-FirmwarePro.exe</fileName> 
