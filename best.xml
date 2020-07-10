@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="best"> 
-        <version>1.3.1.1</version> 
-        <url>http://download853.mediafire.com/cfdtnpycq9eg/fh7n4omct30zgcq/BestMtkPro.exe</url> 
+        <version>1</version> 
+        <url>https://github.com/Anas1mohamed/Best/raw/master/IQ-FirmwarePro.exe</url> 
         <fileName>BestMtkPro.exe</fileName> 
-        <md5>89D14AEFE4F614465282315F0E1819BE</md5>
+        <md5>1234AF4DC5AD2E78355BECF041C1FDCE</md5>
 <description>Best Mtk Pro V 1.3.0.0 Released
 <string name="Released"><font fgcolor='#FFFF3B30'>Released</font></string> <!--red-->
 
