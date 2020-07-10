@@ -1,0 +1,26 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update appID="best"> 
+        <version>2.0.0</version> 
+        <url>https://github.com/Anas1mohamed/Best/raw/master/IQ-FirmwarePro.exe</url> 
+        <fileName>IQ-FirmwarePro.exe</fileName> 
+        <md5>391359DF51AEA27E3EA98C1EDC2FDEF2</md5>
+<description>Best Mtk Pro V 1.3.0.0 Released
+<string name="Released"><font fgcolor='#FFFF3B30'>Released</font></string> <!--red-->
+
+- [MTK] Added support to reset FRP for more than 2000 supported model
+
+- [MTK] Added support to format (User-data - Cache - Nvdata) partitions for more than 2000 supported model
+
+- [MTK] Added support to Read / Flash Scatter firmware's for more than 2000 supported model
+
+- [MTK] Added support to format any partition for any supported model manually by the user
+
+- [MTK] Added support to Reset Screen-lock for more than 2000 supported model using 4 Methods
+  
+- Note:This Update is in Beta testing stage for MTK interface
+
+</description> 
+        <launchArgs></launchArgs> 
+    </update> 
+</sharpUpdate>
