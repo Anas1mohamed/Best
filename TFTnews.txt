@@ -1,0 +1,39 @@
+
+- [Fixed] No Internet Connection
+- [Fixed] Auto update
+
+SPD
+- [Fixed] connecting to the device
+
+MTK
+- [MTK] Added support to reset FRP for more than 2000 supported model
+- [MTK] Added support to Reset Screen-lock for more than 2000 supported model using 3 Methods
+- [MTK] Added support to format any partition for any supported model manually by the user
+
+Samsung 
+- [Fixed] [EDL] ERASE FRP
+- Added [EDL] ERASE MDM
+- Added Tap Repair
+
+Download TFT Driver installer v2
+https://www.mediafire.com/file/c6g27sxzmu8c3ij/TFT_Driver_installer.zip/file
+
+ Facebook group
+https://www.facebook.com/groups/gsmtoolspro/
+
+Facebook page
+https://www.facebook.com/iqt34m
+
+All functions TFT Unlocker Tool video tutorial
+Huawei Y5 (2019) Erase FRP
+https://www.youtube.com/watch?v=20O4m1r2O7M
+
+Install Libusb Filter Driver for MTK
+https://www.youtube.com/watch?v=UfR-6Z4QPIU
+
+XIAOMI Erase FRP Sideload Mode with MI Assistant
+https://www.youtube.com/watch?v=XFY0ePw9QHA
+
+[MTP] Huawei ENABLE ADB / Remove FRP
+https://www.youtube.com/watch?v=l1yArEhqXOo
+
