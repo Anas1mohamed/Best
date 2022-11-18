@@ -1,22 +1,37 @@
 
-- [Fixed] No Internet Connection
-- [Fixed] Auto update
+SAMSUNG
+Tap Securty
+- Added [ROOT] Restoring Orgenal Imei
+- Added [ROOT] Fix IMEI Null Baseband Unknow
+- Added [ROOT] Patch Certificate
+- Added [ROOT] FIX Wifi Forget
+- Added [ROOT] Reset EFS
+- Added [ROOT] Set SIM Cont single
+ Repair ( IMEI1 - IMEI2 - S/N - Wifi )
 
-SPD
-- [Fixed] connecting to the device
+Spreadtrum
+- Added [SPD] Flash Full Firmware Pac File
+- Added [SPD] Flash Custom Loader Pac File
 
-MTK
-- [MTK] Added support to reset FRP for more than 2000 supported model
-- [MTK] Added support to Reset Screen-lock for more than 2000 supported model using 3 Methods
-- [MTK] Added support to format any partition for any supported model manually by the user
+Oppo
+Tap Securty
+- Added [BROM] ERASE FRP Mth2
 
-Samsung 
-- [Fixed] [EDL] ERASE FRP
-- Added [EDL] ERASE MDM
-- Added Tap Repair
+VIVO
+Tap Securty
+- Added [BROM] ERASE FRP Mth2
+
+Universal
+Tap Securty
+- Added [BROM] ERASE FRP Mth2
+
+HUAWEI
+Tap Function
+- Added [ADB] Fix Network
+- Added [ADB] Remove Demo
 
 Download TFT Driver installer v2
-https://www.mediafire.com/file/c6g27sxzmu8c3ij/TFT_Driver_installer.zip/file
+https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
 
  Facebook group
 https://www.facebook.com/groups/gsmtoolspro/
