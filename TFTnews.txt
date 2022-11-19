@@ -1,29 +1,43 @@
 
-SAMSUNG
-Tap Securty
-- Added [ROOT] Restoring Orgenal Imei
-- Added [ROOT] Fix IMEI Null Baseband Unknow
-- Added [ROOT] Patch Certificate
-- Added [ROOT] FIX Wifi Forget
-- Added [ROOT] Reset EFS
-- Added [ROOT] Set SIM Cont single
- Repair ( IMEI1 - IMEI2 - S/N - Wifi )
+Update Released
 
-Spreadtrum
-- Added [SPD] Flash Full Firmware Pac File
-- Added [SPD] Flash Custom Loader Pac File
+MTK Universal Supported (Just One Click)
+Chip SoC : MT6739, MT6739W, MT6750, MT6755,MT6761, MT6762, MT6765, MT6768, MT6771, MT6785, MT6779, MT6873, MT6875
+MT6883, MT6885, MT6889 Added New Chip MediaTek Dimensity 1000, Dimensity 1000+,Dimensity 1000C ,Dimensity 1000L
+
+SAMSUNG
+Tap Function
+- Update [COM] Enable adb (*#0*#) new security patch 2022
+- Update [MTP] READ INFO
+- Update [MTP] BYPASS FRP
+
+REALME
+Tap Securty
+- Update Loader [SPD] Realme C11 RMX3231
+- Update Loader [SPD] Realme C21Y RMX3261
+Tap Function
+- Update [MTP] READ INFO
+- Update [MTP] BYPASS FRP
 
 Oppo
 Tap Securty
 - Added [BROM] ERASE FRP Mth2
+Tap Function
+- Update [MTP] READ INFO
+- Update [MTP] BYPASS FRP
 
 VIVO
 Tap Securty
 - Added [BROM] ERASE FRP Mth2
+Tap Function
+- Update [MTP] READ INFO
+- Update [MTP] BYPASS FRP
 
 Universal
 Tap Securty
 - Added [BROM] ERASE FRP Mth2
+- Update [MTP] READ INFO
+- Update [MTP] BYPASS FRP
 
 HUAWEI
 Tap Function
