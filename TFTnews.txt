@@ -1,48 +1,89 @@
 
+
+Please download the update manually
+https://www.mediafire.com/file/jeqty7a7u5dx4j0/TFTUNLOCKV1.5.7.8.zip/file
+
 Update Released
 
-MTK Universal Supported (Just One Click)
-Chip SoC : MT6739, MT6739W, MT6750, MT6755,MT6761, MT6762, MT6765, MT6768, MT6771, MT6785, MT6779, MT6873, MT6875
-MT6883, MT6885, MT6889 Added New Chip MediaTek Dimensity 1000, Dimensity 1000+,Dimensity 1000C ,Dimensity 1000L
-
-SAMSUNG
-Tap Function
-- Update [COM] Enable adb (*#0*#) new security patch 2022
-- Update [MTP] READ INFO
-- Update [MTP] BYPASS FRP
-
-REALME
+TFT UNLOCKER Digital 1.5.7.8
+Mediatek 
+Tap Flash
+- Added Flash MTK Scatter File 
 Tap Securty
-- Update Loader [SPD] Realme C11 RMX3231
-- Update Loader [SPD] Realme C21Y RMX3261
-Tap Function
-- Update [MTP] READ INFO
-- Update [MTP] BYPASS FRP
-
-Oppo
-Tap Securty
-- Added [BROM] ERASE FRP Mth2
-Tap Function
-- Update [MTP] READ INFO
-- Update [MTP] BYPASS FRP
-
-VIVO
-Tap Securty
-- Added [BROM] ERASE FRP Mth2
-Tap Function
-- Update [MTP] READ INFO
-- Update [MTP] BYPASS FRP
+Backup
+- Added Dump Boot
+- Added Dump Preloader
+- Added Oppo Custom Backup
+- Added Backup Room
+- Added Read Flash
+- Added Read RPMB 
+Extra
+- Added Auth Bypass
+- Added crash to Brom
+- Added Disable Verity / Realme
+- Added SIM Unlock
+- Added Fix IMEI
+- Added Realme / Oppo / Vivo Fix Baseband
 
 Universal
+ Added New Model iTel [SPD] 
 Tap Securty
-- Added [BROM] ERASE FRP Mth2
-- Update [MTP] READ INFO
-- Update [MTP] BYPASS FRP
+[SPRD] ERASE FRP
+  iTel A11
+  iTel A12
+  iTel A13
+  iTel A14
+  iTel A14 Plus
+  iTel A14 Max
+  iTel A14S
+  iTel A16
+  iTel A16 Plus
+  iTel A20
+  iTel A21
+  iTel A23 Pro
+  iTel A25
+  iTel A25 Pro
+  iTel A26
+  iTel A33
+  iTel A36
+  iTel A37
+  iTel A40
+  iTel A41
+  iTel A41 Plus
+  iTel A42 Plus
+  iTel A44 Air
+  iTel A44 Power
+  iTel A51
+  iTel A55 LTE
+  iTel A56
+  iTel A56 LTE
+  iTel A56 Pro
+  iTel AC60
+  iTel P11
+  iTel P12
+  iTel P15
+  iTel P33
+  iTel P33 Plus
+  iTel P41
+  iTel S15
+  iTel S15 Pro
+  iTel S16 Pro (Vision 2)
+  iTel SA633
+  iTel V41
+  iTel Vision 1 P36 Play
+  iTel Vision 1 P36 Play Pro
 
-HUAWEI
-Tap Function
-- Added [ADB] Fix Network
-- Added [ADB] Remove Demo
+Tecno
+ Added New Model Tecno [SPD] 
+Tap Securty
+[SPRD] ERASE FRP
+  Tecno Pop 5 Go
+  Tecno POP 5X
+  Tecno Spark 7
+
+SAMSUNG
+Tap Repair
+- Fix Read Root
 
 Download TFT Driver installer v2
 https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
@@ -54,15 +95,15 @@ Facebook page
 https://www.facebook.com/iqt34m
 
 All functions TFT Unlocker Tool video tutorial
+
+Realme C11 One click Factory Reset & Frp Reset
+https://www.youtube.com/watch?v=LmWmKhVQvuU
+
 Huawei Y5 (2019) Erase FRP
 https://www.youtube.com/watch?v=20O4m1r2O7M
-
-Install Libusb Filter Driver for MTK
-https://www.youtube.com/watch?v=UfR-6Z4QPIU
 
 XIAOMI Erase FRP Sideload Mode with MI Assistant
 https://www.youtube.com/watch?v=XFY0ePw9QHA
 
 [MTP] Huawei ENABLE ADB / Remove FRP
 https://www.youtube.com/watch?v=l1yArEhqXOo
-
