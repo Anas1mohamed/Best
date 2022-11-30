@@ -1,43 +1,47 @@
 
+Auto Update
 
-Please download the update manually
-Download Full Setup TFTUnlock1.6.0.0
-
-Download Google Drive
-https://drive.google.com/file/d/16f2OCj0zLxWPbP6_g8c80V6RMl1QYpVf/view?usp=share_link
-
-Download Mediafire
-https://www.mediafire.com/file/tuwb8g7ysx1l1k1/TFTUnlock1.6.0.0.rar/file
-
-TFT UNLOCKER Digital 1.6.0.0
-What's new?
-
-Xiaomi
-Tap RECOVERY
-[SIDELOAD] Method : [1] Disable MiCloud OFLINE
-- Redmi Note 9S
-- Redmi Note 9 Pro 
-- Redmi Note 9 Pro Max
-- Redmi Note 10
-- Redmi Note 10 Pro
-- Redmi Note 10 Pro Max
-- Redmi Note 11
-- Redmi Note 11S
-- Redmi K20
-- POCO F3
-- POCO X3 Pro
-- POCO X3 NFC
-- Xiaomi Mi 11 Lite 
-- Xiaomi Mi 11X
-- Xiaomi Mi 10I
-- Xiaomi Mi 10T
-- Xiaomi Mi 9T
-- Xiaomi Mi 10 5G 
+TFT UNLOCKER Digital 1.6.1.1
+Spreadtrum
+|SPRD GENERIC|
+-Added Unisoc SC7731 [Spreadtrum SC7731]
+-Added Unisoc SC7731E [Spreadtrum SC7731E]
+-Added Unisoc SC9863A [Spreadtrum SC9863A]
+-Added Unisoc SC9832E [Spreadtrum SC9832E]
+-Added Unisoc T610 [Spreadtrum T610]
+-Added [SPRD] ERASE FRP
+-Added [SPRD] FORMAT DATA
+-Added [FB] ERASE FRP
+-Fix some issues [SPRD] Flash Firmware
 
 MediaTek
-Tap Securty
-  [+] Fix Boot Info
-  [+] Fix some issues
+Supported Socs Brom Exploit 
+(MT6261,MT6572,MT6580,MT6582,MT6735,MT6737,MT6739,MT6753,
+MT6755,MT6757,MT6761,MT6763,MT6765,MT6768,MT6771,MT6779,
+MT6785,MT6795,MT6797,MT6799,MT6873,MT6885, MT8127,MT8163,
+ MT8173,MT8516,MT8695)
+-Added Following Models "Without Auth" BROM Mode by USB  
+-Fixed Protocol
 
- [+] Fix iproxy not found
+Download TFT Driver installer v2
+https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
 
+ Facebook group
+https://www.facebook.com/groups/gsmtoolspro/
+
+Facebook page
+https://www.facebook.com/iqt34m
+
+All functions TFT Unlocker Tool video tutorial
+
+Realme C11 One click Factory Reset & Frp Reset
+https://www.youtube.com/watch?v=LmWmKhVQvuU
+
+Huawei Y5 (2019) Erase FRP
+https://www.youtube.com/watch?v=20O4m1r2O7M
+
+XIAOMI Erase FRP Sideload Mode with MI Assistant
+https://www.youtube.com/watch?v=XFY0ePw9QHA
+
+[MTP] Huawei ENABLE ADB / Remove FRP
+https://www.youtube.com/watch?v=l1yArEhqXOo
