@@ -1,28 +1,51 @@
 
 Auto Update
+
 Update Size Just 3.17 MB
 
-TFT UNLOCKER Digital 1.6.1.1
-Spreadtrum
-|SPRD GENERIC|
--Added Unisoc SC7731 [Spreadtrum SC7731]
--Added Unisoc SC7731E [Spreadtrum SC7731E]
--Added Unisoc SC9863A [Spreadtrum SC9863A]
--Added Unisoc SC9832E [Spreadtrum SC9832E]
--Added Unisoc T610 [Spreadtrum T610]
--Added [SPRD] ERASE FRP
--Added [SPRD] FORMAT DATA
--Added [FB] ERASE FRP
--Fix some issues [SPRD] Flash Firmware
+TFTUnlock 2.0.0.0
+LG
+|Added New Model|
+LG W10 | LG W11 | LG W30 | LG W31 | LG W31+ | LG W41
+LG W41 Pro | LG W41+ | LG K20 | LG K40S | LG K41S | LG K42
+LG K50 | LG K61 | LG K62 | LG K71 | LG Q7 | LG Q31 | LG Q43
+LG Q51 | LG Q52 | LG Q61 | LG Q60 | LG Q63S | LG Stylo 6
+  [BROM] ERASE FRP
+  [BROM] FACTORY RESET
+  [BROM] UNLOCK BOOTLOADER
+  [BROM] RELOCK BOOTLOADER
+  [COM] RESET SCREEN LOCK Method [1] 
+  [COM] RESET SCREEN LOCK Method [2] 
+  [COM] RESET SCREEN LOCK Method [3] 
+  [COM] RESET ZERO SPC
+  [COM] ENABLE ADB
+  [COM] FACTORY RESET
 
-MediaTek
-Supported Socs Brom Exploit 
-(MT6261,MT6572,MT6580,MT6582,MT6735,MT6737,MT6739,MT6753,
-MT6755,MT6757,MT6761,MT6763,MT6765,MT6768,MT6771,MT6779,
-MT6785,MT6795,MT6797,MT6799,MT6873,MT6885, MT8127,MT8163,
- MT8173,MT8516,MT8695)
--Added Following Models "Without Auth" BROM Mode by USB  
--Fixed Protocol
+Lenovo
+|Added New Model|
+Lenovo Tab K10 | Lenovo K4 Note | Lenovo K5 | Lenovo K5 Note 
+Lenovo K6 Enjoy| Lenovo K8  | Lenovo K8 Note | Lenovo K8 Plus 
+Lenovo K9 | Lenovo Lavie Tab E8 | Lenovo Tab M10 HD Gen 2 
+Lenovo Tab M8 (HD) | Lenovo Tab M8 (FHD) | Lenovo Tab3 10 
+Lenovo Tab P11 Plus | Lenovo Yoga Tab 11 | Lenovo A5
+
+Asus
+|Added New Model|
+Asus Zenfone 3 Max | Asus Zenfone 3s Max 
+Asus Zenfone 4 Max | Asus Zenfone 4 Max
+Asus Zenfone 4 Max Plus | Asus Zenfone Max Plus M1
+
+Vsmart
+|Added New Model|
+Vsmart Bee 3 | Vsmart Active 3 | Vsmart Star 4
+Vsmart Star 5 | Vsmart Bee 5
+
+Xiaomi
+Tap Mi Flash
+Added Mi Flash Thx To Developer Hadi Khoirudin
+Flash Bat File Firmware
+Tap RECOVERY
+Fix [SIDELOAD] RESET | DISABLE MI CLOUD OFLINE
 
 Download TFT Driver installer v2
 https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
