@@ -1,9 +1,7 @@
 
 Auto Update
 
-Update Size Just 3.17 MB
-
-TFTUnlock 2.0.0.0
+TFTUnlock 2.0.1.1
 LG
 |Added New Model|
 LG W10 | LG W11 | LG W30 | LG W31 | LG W31+ | LG W41
