@@ -1,67 +1,32 @@
 
-Download Full Setup TFTUnlock-2022-2.0.1. 1
+Auto Update 
+file size Just : 3.89 MB
 
-Download Google Drive
-https://drive.google.com/file/d/1C05zYjtFFSUHX6gOaROeO7MOj8mWNBr0/view?usp=share_link
+TFTUnlock 2.0.2.2
+MediaTek
+Tap Securty
+Added Custom Preloder[EMI]
+Added Default Preloder[EMI]
+Fix Read Flash
 
-Download Mediafire
-https://www.mediafire.com/file/ce440i2cveu8d3h/TFTUnlock-2022-2.0.1.1.zip/file
-
-
-TFTUnlock 2.0.1.1
-LG
-|Added New Model|
-LG W10 | LG W11 | LG W30 | LG W31 | LG W31+ | LG W41
-LG W41 Pro | LG W41+ | LG K20 | LG K40S | LG K41S | LG K42
-LG K50 | LG K61 | LG K62 | LG K71 | LG Q7 | LG Q31 | LG Q43
-LG Q51 | LG Q52 | LG Q61 | LG Q60 | LG Q63S | LG Stylo 6
-  [BROM] ERASE FRP
-  [BROM] FACTORY RESET
-  [BROM] UNLOCK BOOTLOADER
-  [BROM] RELOCK BOOTLOADER
-  [COM] RESET SCREEN LOCK Method [1] 
-  [COM] RESET SCREEN LOCK Method [2] 
-  [COM] RESET SCREEN LOCK Method [3] 
-  [COM] RESET ZERO SPC
-  [COM] ENABLE ADB
-  [COM] FACTORY RESET
-
-Lenovo
-|Added New Model|
-Lenovo Tab K10 | Lenovo K4 Note | Lenovo K5 | Lenovo K5 Note 
-Lenovo K6 Enjoy| Lenovo K8  | Lenovo K8 Note | Lenovo K8 Plus 
-Lenovo K9 | Lenovo Lavie Tab E8 | Lenovo Tab M10 HD Gen 2 
-Lenovo Tab M8 (HD) | Lenovo Tab M8 (FHD) | Lenovo Tab3 10 
-Lenovo Tab P11 Plus | Lenovo Yoga Tab 11 | Lenovo A5
-
-Asus
-|Added New Model|
-Asus Zenfone 3 Max | Asus Zenfone 3s Max 
-Asus Zenfone 4 Max | Asus Zenfone 4 Max
-Asus Zenfone 4 Max Plus | Asus Zenfone Max Plus M1
-
-Vsmart
-|Added New Model|
-Vsmart Bee 3 | Vsmart Active 3 | Vsmart Star 4
-Vsmart Star 5 | Vsmart Bee 5
+Qualcomm
+Added Auto Loader
+ Added PT Erase
+ Added PT Backup
 
 Xiaomi
 Tap Mi Flash
-Added Mi Flash Thx To Developer Hadi Khoirudin
-Flash Bat File Firmware
+Fix Mi Flash 
 Tap RECOVERY
 Fix [SIDELOAD] RESET | DISABLE MI CLOUD OFLINE
 
-Download TFT Driver installer v2
-https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
-
- Facebook group
-https://www.facebook.com/groups/gsmtoolspro/
-
-Facebook page
-https://www.facebook.com/iqt34m
-
 All functions TFT Unlocker Tool video tutorial
+
+Reset Frp Samsung A11 Android 11
+https://www.youtube.com/watch?v=Z4Rx-WlN_rI
+
+Backup Firmware QDLoader 9008
+https://www.youtube.com/watch?v=I0z4_S_X7m0
 
 Realme C11 One click Factory Reset & Frp Reset
 https://www.youtube.com/watch?v=LmWmKhVQvuU
@@ -74,3 +39,12 @@ https://www.youtube.com/watch?v=XFY0ePw9QHA
 
 [MTP] Huawei ENABLE ADB / Remove FRP
 https://www.youtube.com/watch?v=l1yArEhqXOo
+
+Download TFT Driver installer v2
+https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
+
+ Facebook group
+https://www.facebook.com/groups/gsmtoolspro/
+
+Facebook page
+https://www.facebook.com/iqt34m
