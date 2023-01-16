@@ -1,50 +1,49 @@
 
-Auto Update 
-file size Just : 3.89 MB
 
-TFTUnlock 2.0.2.2
-MediaTek
-Tap Securty
-Added Custom Preloder[EMI]
-Added Default Preloder[EMI]
-Fix Read Flash
+TFTUnlock-2023-3.1.1.1
 
-Qualcomm
-Added Auto Loader
- Added PT Erase
- Added PT Backup
+T.POINT
+Updated photos Test-point For TFTUnlock
+
+Samsung
+[MTK] Added ERASE FRP A10S A03S A02 A22 A12 A01 CORE
+No need TestPoinT And  VOL + And VOL-Just Insert cable!
+[MTK] Added FORCE BROM
+[MTK] Added CRASH BROM/ PRELOADER + ERASE FRP
+[QC] Fixed ERASE FRP A11 A02S M11 M02S A01 A70 A71
+[QC] Test-Point Connect Reset MDM | Erase FRP
+
+Apple
+Tap Function
+[Added ] Reboot iDevice
+[Added ] Shutdown iDevice
+[Added ] Enter Recovey Mode
+[Added ] [REC+DFU] READ HW INFO
+[Added ] [REC+DFU] Reboot iDevice Normal Mode (Exit Recovery DFU)
+Tap DIAG [Purple]
+[Added ] WRITE Serial/bluetooth/wifi/Ethernet
+[Added ] [DIAG] READ SN INFO
+[Added ] [DIAG] READ HW INFO
+[Added ] [DIAG] UNLOCK WIFI
+[Added ] [DIAG] READ SYSINFO 
+
+Oppo
+[QC] Added SafeFormat [Realme7i/Realme_X2Pro/Realme_C15/Realme_6PRO/Oppo A33]
+[QC] Added FORMAT / FS Old
+[QC] Added FORMAT / FS New
+[QC] Added RESET EFS
+[A11s/A32/A33/A37/A51w/A53/A53s/A57/A73/A74/A76/A95/A96/F1/F3p/F17/F19/F19s/K9s/R9s/RENO4_5G/RENO5_5G/RENO6PRO5G/RENO7/RENO8/RENOX10Z]
+
+Vivo
+[QC] Added SafeFormat [V5 PLUS/V5/X9Plus/Y55s/Y65/Y66/Y73/Y75s/Y85/Y79/Y93/V21E/V20/Y50/Y31s/Y20S/Y11/Y51]
 
 Xiaomi
-Tap Mi Flash
-Fix Mi Flash 
+Tap Meta
+[META] Added REBOOT TO META MODE
+Tap Function
+[ADB] ENABLE DIAG MIUI 12-13 Without Root
 Tap RECOVERY
-Fix [SIDELOAD] RESET | DISABLE MI CLOUD OFLINE
+[SIDELOAD] INSTALL MAGISK ROOT
+Tap Fastboot
+[FB] RESET EFS
 
-All functions TFT Unlocker Tool video tutorial
-
-Reset Frp Samsung A11 Android 11
-https://www.youtube.com/watch?v=Z4Rx-WlN_rI
-
-Backup Firmware QDLoader 9008
-https://www.youtube.com/watch?v=I0z4_S_X7m0
-
-Realme C11 One click Factory Reset & Frp Reset
-https://www.youtube.com/watch?v=LmWmKhVQvuU
-
-Huawei Y5 (2019) Erase FRP
-https://www.youtube.com/watch?v=20O4m1r2O7M
-
-XIAOMI Erase FRP Sideload Mode with MI Assistant
-https://www.youtube.com/watch?v=XFY0ePw9QHA
-
-[MTP] Huawei ENABLE ADB / Remove FRP
-https://www.youtube.com/watch?v=l1yArEhqXOo
-
-Download TFT Driver installer v2
-https://www.mediafire.com/file/a3wmc2ygd4s7pjr/TFT_Driver_installer_v2.zip/file
-
- Facebook group
-https://www.facebook.com/groups/gsmtoolspro/
-
-Facebook page
-https://www.facebook.com/iqt34m
