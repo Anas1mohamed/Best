@@ -1,58 +1,31 @@
-
-
-TFTUnlock-2023-3.1.1.1
-
-Download Google Drive
-https://drive.google.com/file/d/1Q-bbS39aZEn5Fw4f8kc-UczwkwTO7xSH/view?fbclid=IwAR3WSmLip3jeyHq1CyXWNVDmTD3xwJS1SGNQswNPjigi3qed0LqaGQ3LTiQ
+TFT Unlock Tools-2024-3.2.0.0
 
 Download Mediafire
-https://www.mediafire.com/file/8gnc0ykyfl69xmf/TFTUnlock-2023-3.1.1.1.zip/file?fbclid=IwAR0YnWwdc5h8htEWM4MIMcojFwWy2UqHCR6CqzAG4pgMJcew2Wv9m5EK-yE
+https://www.mediafire.com/file/e4bukin4m8pl380/TFT+Unlock+Tools-2024-3.2.0.0.zip/file
 
 Download OTHER LINKE
-https://dosya.co/x5jwyurtrqfm/TFTUnlock-2023-3.1.1.1.zip.html?fbclid=IwAR3Nxny4ZOFY_mC_8L642J4ptEwanW2rgRRMCGf7o8FqACKHexbrf1u9S1c
+https://dosya.co/batf8ho21aj4/TFT_Unlock_Tools-2024-3.2.0.0.zip.html
 
 T.POINT
-Updated photos Test-point For TFTUnlock
+Fix photos show Test-point 
 
 Samsung
-[MTK] Added ERASE FRP A10S A03S A02 A22 A12 A01 CORE
-No need TestPoinT And  VOL + And VOL-Just Insert cable!
-[MTK] Added FORCE BROM
-[MTK] Added CRASH BROM/ PRELOADER + ERASE FRP
-[QC] Fixed ERASE FRP A11 A02S M11 M02S A01 A70 A71
-[QC] Test-Point Connect Reset MDM | Erase FRP
+[ODIN] Flash
+[ODIN] Read Info
+[ODIN] MTK Erase FRP 2023 
+[SPD] Add A03/A03Core ERASE FRP + FACTORY RESET
 
-Apple
-Tap Function
-[Added ] Reboot iDevice
-[Added ] Shutdown iDevice
-[Added ] Enter Recovey Mode
-[Added ] [REC+DFU] READ HW INFO
-[Added ] [REC+DFU] Reboot iDevice Normal Mode (Exit Recovery DFU)
-Tap DIAG [Purple]
-[Added ] WRITE Serial/bluetooth/wifi/Ethernet
-[Added ] [DIAG] READ SN INFO
-[Added ] [DIAG] READ HW INFO
-[Added ] [DIAG] UNLOCK WIFI
-[Added ] [DIAG] READ SYSINFO 
+Spreadtrum
+[DIAG] Read IMEI
+[DIAG] Write IMEI
+[DIAG] Factory Reset
+[DIAG] Rebooting TO Normal
 
-Oppo
-[QC] Added SafeFormat [Realme7i/Realme_X2Pro/Realme_C15/Realme_6PRO/Oppo A33]
-[QC] Added FORMAT / FS Old
-[QC] Added FORMAT / FS New
-[QC] Added RESET EFS
-[A11s/A32/A33/A37/A51w/A53/A53s/A57/A73/A74/A76/A95/A96/F1/F3p/F17/F19/F19s/K9s/R9s/RENO4_5G/RENO5_5G/RENO6PRO5G/RENO7/RENO8/RENOX10Z]
+- Improved bypass frp mtp for all brands open browser.
 
-Vivo
-[QC] Added SafeFormat [V5 PLUS/V5/X9Plus/Y55s/Y65/Y66/Y73/Y75s/Y85/Y79/Y93/V21E/V20/Y50/Y31s/Y20S/Y11/Y51]
+Software Password = TFT
+WinRar Password = TFT
 
-Xiaomi
-Tap Meta
-[META] Added REBOOT TO META MODE
-Tap Function
-[ADB] ENABLE DIAG MIUI 12-13 Without Root
-Tap RECOVERY
-[SIDELOAD] INSTALL MAGISK ROOT
-Tap Fastboot
-[FB] RESET EFS
+
+
 
