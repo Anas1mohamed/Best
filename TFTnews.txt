@@ -1,126 +1,36 @@
-TFT Unlock Tools-2024-3.3.0.0
-
-Huawei
-
-Add Firmware  (Downgrade-MDM_REMOVE-SIMLOCK-huawei_Id_remove
-Reset_FRP-Dead Boot Repair-Recovery_Fix-DEMO_MODE_REMOVE)
-
-Add Board Software
-Huawei Honor 5X GR5X KII-L23
-Huawei Honor 6A DLI-TL20
-Huawei Y6 Prime 2018 ATU-L31-L21
-Huawei Y6 Prime 2018 ATU-L42
-Huawei AGS L03 C500B001
-Huawei Y6II CAM-L21
-Huawei Honor 7a (Pro) AUM-LXX
-Huawei Honor 7c LND
-Huawei GR5 KII-L21
-Huawei Y7 Prime 2018 LDN-LXX
-Huawei Y7 Prime 2018 DUB-LX1-LX2-LX3
-Huawei P8 Lite ALE-LXX
-Huawei Honor 8X Max ARE-L21
-Huawei Honor 7i ATH-TLXX
-Huawei Honor 7i ATH-CLXX
-Huawei Ascend G7 L01 G760 V100R001C00B2
-Huawei Ascend G7 L03 G760 V100R001C00B251
-Huawei Honor 5X KIW L21
-Huawei Honor 5X KIW AL10
-Huawei Honor 8c BKK AL00B
-Huawei MediaPad T3 8 KOB W09 CHNC500B013
-Huawei MediaPad T3 8 KOB L09 CHNC500B013
-Huawei MediaPad T2 FDR-AXX
-Huawei Nova CAZ AL00
-Huawei Nova CAZ AL10
-Huawei Glory Play 4X CHE1-CL10
-Huawei Y6 SCL-U23
-Huawei Y6 SCL-U21
-Huawei Y6 SCL-L21
-Honor 7C(All LND) Unbrick Repair 
+TFT Unlock Tools-2024-3.4.0.0 Auto Update
 
 Samsung
+Samsung Qualcomm Update Models New BIT
+[EDL] Erase FRP 
+Samsung Galaxy A52 
+Samsung Galaxy A71 5G
+Samsung Galaxy S10e 
+Samsung Galaxy S10 
+Samsung Galaxy S10 Plus 
+Samsung Galaxy S20 5G 
+Samsung Galaxy S20 Plus 5G 
+Samsung Galaxy S20 Ultra 
+Samsung Galaxy S20 FE 5G  
+Samsung Galaxy S21 FE
+Samsung Galaxy S21 5G
+Samsung Galaxy S21 5G Plus 
+Samsung Galaxy S21 Ultra 5G 
+Samsung Galaxy S22 5G 
+Samsung Galaxy S22 5G 
+Samsung Galaxy S22 Plus 5G 
+Samsung Galaxy S22 Ultra 5G
+Samsung Galaxy S22 Ultra 5G 
+Samsung Galaxy S23
+Samsung Galaxy S23 Plus 
+Samsung Galaxy S23 Ultra 5G
+Samsung Galaxy Note 10 
+Samsung Galaxy Note10 Plus 
+Samsung Galaxy Note20 5G
+Samsung Galaxy Note 20 Ultra 5G 
+Samsung Galaxy Z Flip 3 5G
+Samsung Galaxy Z Flip 4 
+Samsung Galaxy Z Fold2 5G 
+Samsung Galaxy Z Fold3 5G 
+Samsung Galaxy Z Fold 4 
 
-Add Samsung Firmwares 
-EDL Mode unbrick
-Samsung Galaxy A52 5G SM-A526U U10
-Samsung Galaxy A71 SM-A716U Ug
-Samsung Galaxy Note 10 PLUS SM-N975U U7
-Samsung Galaxy Note 10 SM-N970U U7
-Samsung Galaxy Note20 5G SM-N981U U2
-Samsung Galaxy Note20 Ultra 5G SM-N986U U2
-Samsung Galaxy Note20 Ultra 5G SM-N986U U5
-Samsung Galaxy 510 Plus SM-G975U U7
-Samsung Galaxy 510 Plus SM-G975U U9
-Samsung Galaxy S10 SM-G973U U7
-Samsung Galaxy S10e SM-G970U U7
-Samsung Galaxy S20 5G SM-G981U U2
-Samsung Galaxy S20 5G SM-G981U U7
-Samsung Galaxy S20 FE 5G SM-G781U U8
-Samsung Galaxy S20 FE 5G SM-G781U U6
-Samsung Galaxy S20 FE 5G SM-G781U U9
-Samsung Galaxy S20 FE 5G SM-G781V U5
-Samsung Galaxy S20 PLUS 5G SM-G985U U2
-Samsung Galaxy S20 PLUS 5G SM-G986U U7
-Samsung Galaxy S20 Ultra 5G SM-G988U U2
-Samsung Galaxy $20 Ultra 5G SM-G988U U7
-Samsung Galaxy S21 5G SM-G991U U4
-Samsung Galaxy S21 5G SM-G991U U5
-Samsung Galaxy S21 5G SM-G991U UB
-Samsung Galaxy S21 5G SM-G991U U9
-Samsung Galaxy S21 FE SM-G990 U2 U7
-Samsung Galaxy S21 FE SM-G990U U9
-Samsung Galaxy S21 PLUS 5G SM-G996U U4
-Samsung Galaxy S21 PLUS 5G SM-G996U US
-Samsung Galaxy S21 PLUS 5G SM-G996U U8
-Samsung Galaxy S21 PLUS 5G SM-G996U U9
-Samsung Galaxy S21 Ultra SM-G998U U4
-Samsung Galaxy 521 Ultra SM-G998U US
-Samsung Galaxy S21 Ultra SM-G998U U8
-Samsung Galaxy S21 Ultra SM-G998U U9
-Samsung Galaxy S22 5G SM-5901E U7
-Samsung Galaxy S22 5G SM-5901U U3
-Samsung Galaxy S22 PLUS 5G SM-S906U U3
-Samsung Galaxy S22 Ultra 5G SM-5908E U7
-Samsung Galaxy S22 Ultra 5G SM-S908U U3
-Samsung Galaxy S23 5G SM-S911B U3
-Samsung Galaxy S23 PLUS SM-S916B U3
-Samsung Galaxy S23 PLUS SM-S916U U2
-Samsung Galaxy S23 Ultra 5G SM-59188 U3
-Samsung Galaxy S23 Ultra SM-5918U U2
-Samsung Galaxy Z Flip 4 SM-F721U_U3
-Samsung Galaxy Z Flip3 5G SM-F711U US
-Samsung Galaxy Z Fold2 5G SM-F916U UZ
-Samsung Galaxy Z Fold3 5G SM-F9268 U4
-Samsung Galaxy Z Fold3 5G SM-F9268 U5
-Samsung Galaxy Z Fold4 5G SM-F9368 U4
-Samsung Galaxy Z Fold4 5G SM-F936U U3
-Samsung Galaxy A11 A115FXXS2BVD2
-Dead Boot Repair 
-Samsung Galaxy A03s A037F U4 OS13 Scatter (A037FXXS4CWD5)
-Samsung Galaxy A03S A037F U1 Dead Boot Repair Solution Final Fix
-Samsung Galaxy A03s A037U U2 OS11 Scatter (A037USQS2AVB3)
-Samsung Galaxy A04e A042F-boot repair
-Samsung Galaxy A32 5G A326B U4 OS12 Scatter (A326BXXU4BVE3)
-Samsung Galaxy A22 A225F U6 OS13 Scatter (A225FXXU6DWE3)
-Samsung Galaxy M01s (M017F=U2)Dump File Nv FileDead BootRepair
-Samsung Galaxy A10S A107F U5Dump File Nv FileDead BootRepair 
-Samsung Galaxy S9,S9 Plus,S8,S8 Plus Dead Boot Repair
-Samsung Galaxy A10S A107M U3 OS9 Scatter (A107MUBU3ASL1)
-Samsung Galaxy A31 A315F U1 OS12 Scatter (A315FXXU1DVD8)
-Samsung Galaxy A32 A325F U2 OS12 Scatter (A325FXXU2BVD6)
-Samsung Grand Prime SM-G531FDead Boot Solution WithutBox
-Samsung Galaxy A12 A125U U3 OS11 Scatter (A125USQS3BVA2)
-Samsung Galaxy A12 A125FZH U2 OS11 Scatter (A125FZHU2BVB3)
-Samsung Galaxy A12 A125F U2 Scatter 
-Samsung Galaxy A22 A225M U3 OS11 Scatter (A225MUBS3AUL6)
-Samsung Galaxy A22 A225F Unbrick Scatter Firmware Dead boot repair
-Samsung Galaxy A32 A325F U2 BIT 2 Dead boot repair
-Samsung Galaxy Tab S2 9.7 SM-T815_Dump Dead Boot Repair Dump File
-Samsung Galaxy J1 Ace SM-J110H(KTU84P.J110HXXU0AOGA-4.4.4-KTU84P)
-Samsung Galaxy J2 SM-J200GU(LMY47X.J200GUDXU3AQL1-5.1.1-LMY47X)
-Samsung Galaxy J2 Core (M1AJB.J260FPUU1ASA1-8.1.0-M1AJB)
-Samsung Galaxy J2 SM-J200G (LMY47X.J200GDDU2AQE2-5.1.1-LMY47X)
-Samsung Galaxy J5 Prime (MMB29K.G570FDDU1AQC4-6.0.1-MMB29K)
-Samsung Galaxy J1 2016 SM-J120F_U2 EMMC DUMP FILE Dead Boot Repair
-Samsung Galaxy J7 SM-J700F LMY48B.J700FXXU1AOL1 Dead Boot Repair
-Samsung Galaxy M32 M325F U3 OS11 Scatter (M325FXXU3AUK1)
-[SPD] Add A03/A03Core ERASE FRP + FACTORY RESET
