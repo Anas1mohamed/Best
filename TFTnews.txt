@@ -1,36 +1,51 @@
-TFT Unlock Tools-2024-3.4.0.0 Auto Update
+TFT Unlock Tools-2024-3.5.1.1
 
-Samsung
-Samsung Qualcomm Update Models New BIT
-[EDL] Erase FRP 
-Samsung Galaxy A52 
-Samsung Galaxy A71 5G
-Samsung Galaxy S10e 
-Samsung Galaxy S10 
-Samsung Galaxy S10 Plus 
-Samsung Galaxy S20 5G 
-Samsung Galaxy S20 Plus 5G 
-Samsung Galaxy S20 Ultra 
-Samsung Galaxy S20 FE 5G  
-Samsung Galaxy S21 FE
-Samsung Galaxy S21 5G
-Samsung Galaxy S21 5G Plus 
-Samsung Galaxy S21 Ultra 5G 
-Samsung Galaxy S22 5G 
-Samsung Galaxy S22 5G 
-Samsung Galaxy S22 Plus 5G 
-Samsung Galaxy S22 Ultra 5G
-Samsung Galaxy S22 Ultra 5G 
-Samsung Galaxy S23
-Samsung Galaxy S23 Plus 
-Samsung Galaxy S23 Ultra 5G
-Samsung Galaxy Note 10 
-Samsung Galaxy Note10 Plus 
-Samsung Galaxy Note20 5G
-Samsung Galaxy Note 20 Ultra 5G 
-Samsung Galaxy Z Flip 3 5G
-Samsung Galaxy Z Flip 4 
-Samsung Galaxy Z Fold2 5G 
-Samsung Galaxy Z Fold3 5G 
-Samsung Galaxy Z Fold 4 
+Download Full Setup Mediafire 
+https://www.mediafire.com/file/lasyrxogr08wm9r/TFT+Unlock+Tools-2024-3.5.1.1.zip/file
 
+Download Full Setup Google Drive
+
+
+Software Password = TFT
+WinRar Password = TFT
+
+TECNO / INFNIX
+MDM Lock Removal for Tecno/Infinix Devices: A New Method Unveiled in 2024
+[BROM] REMOVE MDM New Method 2024
+ 
+ANDROID
+General
+[ADB] Exporting contacts.vcf
+[ADB] Read contacts
+[ADB] Full Phone Backup without Unlock or Root
+[ADB] Restore Backup
+[ADB] Backup Applications No System
+[ADB] Restore Applications
+[ADB] Backup Whatsapp
+
+OPPO
+[SPRD] ERASE FRP
+Realme C25Y (RMX3269)
+Realme C33 (RMX3624)
+Realme C33 (RMX3627)
+Realme C35 (RMX3511)
+
+TECNO 
+[SPRD] ERASE FRP
+Tecno Pop 4 (BC2C)
+Tecno Pop 5 (BD2p)
+
+INFINIX
+[SPRD] ERASE FRP
+Infinix Smart 6 Plus (X6823)
+Infinix Hot 11 (X675)
+Infinix Hot 12 Play (X6816C)
+Infinix Smart 5 Pro
+
+UNIVERSAL
+[SPRD] ERASE FRP
+Lava V62 Benco (AE9150)
+Lava BeU LS000BEU
+Lava X50M
+Itel Vision 1 Plus  P36 Pro
+Itel A60 (A662L)
